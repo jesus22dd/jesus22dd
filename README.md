@@ -79,6 +79,10 @@ class Program
 
 ## 🙋‍♂️ Connect with me:
 
-<img src="https://skillicons.dev/icons?i=discord,linkedin,instagram&h=50&theme=dark" />
+[![Discord](https://skillicons.dev/icons?i=discord&h=50&theme=dark)](https://www.youtube.com/watch?v=5p5d1vflc_g)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&h=50&theme=dark)](https://www.youtube.com/watch?v=5p5d1vflc_g)
+[![Instagram](https://skillicons.dev/icons?i=instagram&h=50&theme=dark)](https://www.youtube.com/watch?v=5p5d1vflc_g)
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
