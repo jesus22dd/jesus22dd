@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Jesus Pablo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 align="center">About me</h2>
+<h2 align="center">About me</h2> 
 
 ```csharp
 using System;
@@ -31,20 +31,25 @@ class Program
     }
 }
 ```
-## My Skills Include
+
+
+## My Skill Include
 <h4>MY STACK</h4> <p align="left">
 <span>
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> 
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
-</span>
-    
+</span> 
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ## Familiar With
-<h4>Languages</h4> <p align="left">
+<h4>Languages</h4> 
 <span>
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
@@ -73,5 +78,7 @@ class Program
 
 
 ## 🙋‍♂️ Connect with me:
-<img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="500"/></p>
+
+<img src="https://skillicons.dev/icons?i=discord,linkedin,instagram&h=50&theme=dark" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
